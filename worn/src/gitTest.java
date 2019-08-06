@@ -8,4 +8,9 @@ public class gitTest {
 
         System.out.println(11111);
     }
+
+    public void clone_test(){
+
+        System.out.println("clone");
+    }
 }
